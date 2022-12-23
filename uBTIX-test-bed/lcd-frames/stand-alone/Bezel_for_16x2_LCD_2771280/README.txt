@@ -1,1 +1,0 @@
-Bezel for 16x2 LCD by TheDreamMaster on Thingiverse: https://www.thingiverse.com/thing:2771280
