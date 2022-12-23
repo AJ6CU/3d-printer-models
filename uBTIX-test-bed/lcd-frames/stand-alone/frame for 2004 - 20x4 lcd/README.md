@@ -10,7 +10,8 @@ You will need to print a frame and two frame clips. I used small M3 screws and n
 You can tinker with this via the link:
 https://www.tinkercad.com/things/4O6Xf0wDEE6
 
-![IMG_2494](https://user-images.githubusercontent.com/70183884/209399622-0f818152-0e06-4ce7-a5f9-77ebc6b1165a.jpg)
+![IMG_2511](https://user-images.githubusercontent.com/70183884/209400005-3e08b80f-7cfc-4c0e-9f2d-5b150057c501.jpg)
+
 
 
 
