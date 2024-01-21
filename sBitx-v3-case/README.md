@@ -33,7 +33,7 @@ Since the threads on the audio connector are very short, I designed the case to 
 
 At this point you can put the nuts on the audio connectors on and afterwards tighten down the antenna nut. In getting the audio connectors to attach and not pop off, I had to start on one end that was slightly farther out, tighten it down, and then move on to the next ones. 
 
-At this point you can plugin your RaspberryPi and fasten it down. These are 2.5mm screws not 3mm.  Note that because the holes for the RaspberryPi USB and RJ45 are slightly high, the RaspberryPi might not sit completely flat. This will be corrected in a future release.
+Now plugin your RaspberryPi and fasten it down. These are 2.5mm screws not 3mm.  Note that because the holes for the RaspberryPi USB and RJ45 are slightly high, the RaspberryPi might not sit completely flat. This will be corrected in a future release.
 
 ![step3-sBitx_board_secured](https://github.com/AJ6CU/3d-printer-models/assets/70183884/c0db8eff-4802-470e-8179-6dad25d29d58)
 
