@@ -41,7 +41,7 @@ Now plugin your RaspberryPi and fasten it down. These are 2.5mm screws not 3mm. 
 In the V1 design, there are no holes to attach a speaker. I am still looking for an option that is readily available. A future revision will include the url for the speaker and the body will have the attachment holes pre-drilled. Meanwhile, if you want to attach your speaker, you should do so now.
 
 #### Step 6: Mount the Pi LCD Touchscreen and Encoder Board
-See photo below for the proper orientation of the screen. The internal microphone channel is in the upper right. This is the top of the screen. The thicker support on the LCD frame is on the bottom. Note that the ribbon cable of the screen faces the bottom. The encoder board will need to be bent slighty to ensure the mounting nuts of the encoder can be attached to the front of the lcd frame. Make sure you plug in the encoder cable before attaching it to the frame.
+See photo below for the proper orientation of the screen. The internal microphone channel is in the upper right. This is the top of the screen. The thicker support on the LCD frame is on the bottom. Note that the copper ribbon cable of the screen faces the bottom. The encoder board will need to be bent slighty to ensure the mounting nuts of the encoder can be attached to the front of the lcd frame. Make sure you plug in the encoder cable before attaching it to the frame.
 
 ![step4-mounting_touchscreen](https://github.com/AJ6CU/3d-printer-models/assets/70183884/81e31009-2d32-44e5-aed0-26ea0dd7dd23)
 
