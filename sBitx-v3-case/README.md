@@ -16,6 +16,17 @@ This was designed using Fusion 360. My thanks go out to Mike - KW1ND that provid
 ### Step 1: Print all pieces. 
 You need to print all the parts. Make sure you print 2x of the lcd brace.
 
+![step1-printed_parts](https://github.com/AJ6CU/3d-printer-models/assets/70183884/02d0f8e6-e5b1-4860-b22e-0165b237ce7d)
+
+### Step 2: Preparation of hold downs
+You may need to use a 3mm tap for the 5 holes in the bottom of the case and the two that hold the PI HDMI cover. Make sure all these holes accept a 3mm screw. 
+
+### Step 3: Insert the sBITX motherboard
+It is a tight fit!  Angle the motherboard so that the antenna connector goes in first and then you can bow the side with the audio connectors back to place the motherboard into the case. (Obviously, make sure you took off all the nuts on the antenna audio connectors!)
+
+![step2-inserting_sBitx_into_case](https://github.com/AJ6CU/3d-printer-models/assets/70183884/b0cd26a2-13df-41a7-b671-91b1a919e66a)
+
+
 ## Known Problems
 1. Holes for RaspberryPi connectors (USB and RJ45) are high by about 1-2 mm. 
 2. No holes provided to attach speaker.
