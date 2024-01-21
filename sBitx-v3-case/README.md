@@ -1,4 +1,4 @@
-#TITLE: A 3d printable case for the HF Signals sBitx board
+# A 3d printable case for the HF Signals sBitx board
 
 #Revision History
 Jan 21, 2024:	Initial v1
