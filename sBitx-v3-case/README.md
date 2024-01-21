@@ -60,14 +60,6 @@ These are some of the other photos I have taken. Perhaps you will find them usef
 
 ![extra-back_of_case_showing_heat_sink](https://github.com/AJ6CU/3d-printer-models/assets/70183884/87fdd7ca-0bc6-4e11-bb5c-6a09dbfa0cab)
 
-## Future Revisions
-1. Body with mounting holes for an internal speaker.
-2. Optional brace (such as Elecraft designed for their KX2/3) so that the sBitx can be tilted back slightly.
-
-## Known Problems
-1. Holes for RaspberryPi connectors (USB and RJ45) are high by about 1-2 mm. 
-2. No holes provided to attach speaker.
-
 ![extra-cover_for_pi_hdmi](https://github.com/AJ6CU/3d-printer-models/assets/70183884/ac4a55d3-e08d-4f37-b58f-6fe6c431fe2c)
 
 ![extra-holes_for_raspberrypi_USB_too_high](https://github.com/AJ6CU/3d-printer-models/assets/70183884/66b72fa7-ffef-4250-9f4c-d5567024cd4e)
@@ -76,6 +68,13 @@ These are some of the other photos I have taken. Perhaps you will find them usef
 
 ![extra-power_audio_connections](https://github.com/AJ6CU/3d-printer-models/assets/70183884/b84e9697-7e6a-4ff3-800b-c0cc639cf8cb)
 
+## Future Revisions
+1. Body with mounting holes for an internal speaker.
+2. Optional brace (such as Elecraft designed for their KX2/3) so that the sBitx can be tilted back slightly.
+
+## Known Problems
+1. Holes for RaspberryPi connectors (USB and RJ45) are high by about 1-2 mm. 
+2. No holes provided to attach speaker.
 
 73
 Mark
