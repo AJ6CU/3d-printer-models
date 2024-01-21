@@ -10,7 +10,7 @@ I printed in petg. With 50% infil, it will take approximately 8-10 hours to prin
 
 3mm screws are used everywhere. Depending on your printer, you may need to pre-tap some of the holes. 
 
-This was designed using Fusion 360. My thanks go out to Mike - KW1ND that provided the base design from which I started. It would have been much more difficult to have started from scratch.
+This was designed using Fusion 360. My thanks go out to Mike - KW1ND that provided the base design from which I started. It would have been much more difficult to have started from scratch. The Fusion 360 archive file is provided in the Bitx-case-3d-printer-files folder. You will find the ready to print stl files there too.
 
 ## Assembly
 ### Step 1: Print all pieces. 
