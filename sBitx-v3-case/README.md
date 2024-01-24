@@ -2,6 +2,7 @@
 
 ## Revision History
 Jan 21, 2024:	Initial v1
+
 Jan 24, 2024: Added speaker holes and support for Bob KD8CGH stilt legs, Fixed high USB cutout.
 
 ## Overview
