@@ -2,6 +2,7 @@
 
 ## Revision History
 Jan 21, 2024:	Initial v1
+Jan 24, 2024: Added speaker holes and support for Bob KD8CGH stilt legs, Fixed high USB cutout.
 
 ## Overview
 This is a design for a 3d printable case for the HF Signals sBITX. Hams that have just purchased the single motherboard might find this design useful. To print it, you will need a 3d printer with at least 270mm x 170mm bed. If you do not have such a large printer, there are multiple 3d printing services that can print it for you. Unfortunately, I do not offer such a service. 
@@ -18,10 +19,24 @@ You need to print all the parts. Make sure you print 2x of the lcd brace.
 
 ![step1-printed_parts](https://github.com/AJ6CU/3d-printer-models/assets/70183884/02d0f8e6-e5b1-4860-b22e-0165b237ce7d)
 
-### Step 2: Preparation of hold downs and Speaker Attachment
+### Step 2: Preparation of hold downs and tilting legs (optional)
 You may need to use a 3mm tap for the 5 holes in the bottom of the case and the two that hold the PI HDMI cover. Make sure all these holes accept a 3mm screw. 
 
-The V1 desigm has no attachment holes for an internal speaker. The position of the speaker is as in the origial HF Signals case design, at the top and to the left of the RaspberryPi. If you have a speaker to use, you should plan on how you will mount it at this point.
+The position of the speaker is as in the origial HF Signals case design, at the top and to the left of the RaspberryPi. This speaker is the one I use.
+
+https://www.amazon.com/gp/product/B09R9WY9R6/
+
+If you use Bob (KD8CGH)'s tilting leg stands, 
+
+https://www.printables.com/model/734871-sbitx-tilt-legs-for-portable-operations
+
+drill out the 3 holes in the support in the back of the case. I started from thge inside with a 3.3mm and then turned the 
+
+![mounting_points-for_tilting_legs](https://github.com/AJ6CU/3d-printer-models/assets/70183884/79a41305-5f23-459b-99a3-4f6435bf2147)
+
+case over and drilled it out with a 4mm. I used some brass inserts to provide a stronger fix point. You cold use thumb screws to allow this to be detached when not needed.
+
+https://www.amazon.com/gp/product/B09MCW7ZN5/
 
 ### Step 3: Insert the sBITX motherboard
 It is a tight fit!  Angle the motherboard so that the antenna connector goes in first and then you can bow the side with the audio connectors back to place the motherboard into the case. (Obviously, make sure you took off all the nuts on the antenna audio connectors!)
@@ -68,13 +83,8 @@ These are some of the other photos I have taken. Perhaps you will find them usef
 
 ![extra-power_audio_connections](https://github.com/AJ6CU/3d-printer-models/assets/70183884/b84e9697-7e6a-4ff3-800b-c0cc639cf8cb)
 
-## Future Revisions
-1. Body with mounting holes for an internal speaker.
-2. Optional brace (such as Elecraft designed for their KX2/3) so that the sBitx can be tilted back slightly.
+![case_with_tilting_legs](https://github.com/AJ6CU/3d-printer-models/assets/70183884/0cb25793-5e11-4e76-a666-6f16b2e851cc)
 
-## Known Problems
-1. Holes for RaspberryPi connectors (USB and RJ45) are high by about 1-2 mm. 
-2. No holes provided to attach speaker.
 
 73
 Mark
